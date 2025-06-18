@@ -3,7 +3,7 @@
 🚀 **AWS & DevOps Engineer | Cloud Automation | CI/CD | Kubernetes**
 
 📍 Hyderabad, India | 📧 jithendarramagiri1998@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/ramagiri-jithendar-365819307) | 🖥️ [GitHub](https://github.com/Jithendarramagiri1998)
+🌐 [LinkedIn](https://www.linkedin.com/in/jithendarramagiri) | 🖥️ [GitHub](https://github.com/Jithendarramagiri1998)
 
 ---
 
