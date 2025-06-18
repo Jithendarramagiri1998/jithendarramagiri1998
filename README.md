@@ -77,13 +77,4 @@ I am a **results-driven AWS & DevOps Engineer** with over **5.7 years of experie
 
 ---
 
-## 📌 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jithendarramagiri1998&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jithendarramagiri1998&theme=radical" width="49%" />
-</p>
-
----
-
 ⭐ *Thanks for visiting! Let's automate the world together.*
